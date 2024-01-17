@@ -1,2 +1,2 @@
-var name = prompt('What is your name?', '');
-alert('Hello, ' + name + '!  How are you?');
+var name = window.prompt('What is your name?', '');
+window.alert('Hello, ' + name + '!  How are you?');
